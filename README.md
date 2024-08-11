@@ -1,1 +1,1 @@
-# FidoChain
+# Polkadot Hackathon 2024
